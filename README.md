@@ -1,2 +1,2 @@
 # Desafios de QA
-Estudo para treino de cenário de teste, modelagem de teste e relatório de defeitos(bugs).
+Estudo e aplicação dos controles e garantias de qualidade por teste em softwares. 
