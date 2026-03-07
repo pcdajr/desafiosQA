@@ -1,1 +1,22 @@
+ 
+-VERIFICAÇÃO DE ENTRADA DO USUÁRIO NOS CENÁRIOS-
 
+  ATÉ O MOMENTO NÃO HÁ INTERVALOS DE DADOS NOS INPUTS DOS CENÁRIOS
+  ATÉ O MOMENTO NÃO HÁ TROCA DE ESTADOS E CAMADAS COMPLEXAS PARA TABELAS DE DECISÃO
+  
+ PARA ESTE PROJETO OS TESTES DINÂMICOS SÃO EXECUTADOS DE FORMA MANUAL.
+ 
+-TÉCNICA DE TESTE DEFINDA -
+
+  PARTIÇÃO DE EQUIVALÊNCIA (CAIXA PRETA)
+     Inputs Válidas
+     Inputs Inválidas
+
+-COMO COMPLEMENTO DOS TESTES ALÉM DOS CENÁRIOS A SEGUIR MANTENDO A BOA PRÁTICA, FOI RECOMENDADO:
+
+  TESTE EXPLORATÓRIO (para o protótipo preexistente sem documentação) 
+    teste negativo - campos com entradas inesperadas
+    cenários com fluxo de usuário (sad path)                   
+
+
+  
