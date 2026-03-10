@@ -14,7 +14,7 @@
      Inputs Válidos <br>
      Inputs Inválidos<br>
 
-<h3>-COMO COMPLEMENTO DOS TESTES ALÉM DOS CENÁRIOS A SEGUIR MANTENDO A BOA PRÁTICA, FOI RECOMENDADO:</h3><br>
+<h3>-COMO COMPLEMENTO DOS TESTES ALÉM DOS CENÁRIOS A SEGUIR, FOI RECOMENDADO:</h3><br>
 
   TESTE EXPLORATÓRIO (para o protótipo preexistente sem documentação) <br>
     teste negativo - campos com entradas inesperadas <br>
