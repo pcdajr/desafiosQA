@@ -13,4 +13,4 @@ Insere a senha  ("secret_sauce") </br>
 **[ENTAO]**:</br>
 Clica no botão de login para entrar </br>
 
-RESULTADO ESPERADO: </br>  Sistema deve exibir "Logado com sucesso" e redirecionar para a próxima página, a loja virtual com lista de produtos.
+**RESULTADO ESPERADO**: </br>  Sistema deve exibir "Logado com sucesso" e redirecionar para a próxima página, a loja virtual com lista de produtos.
