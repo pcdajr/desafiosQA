@@ -7,10 +7,11 @@ PRÉ-CONDIÇÃO: USUÁRIO CADASTRADO NO SISTEMA</br>
 **[DADO]**:</br>
 Usuário acessa a tela de login </br>
 **[QUANDO]**:</br>
-Insere o username ("standard_user") </br>
+Insere o username </br>
 **[E]**:</br>
-Insere a senha  ("secret_sauce") </br>
-**[ENTAO]**:</br>
+Insere a senha </br>
+**[E]**:</br>
 Clica no botão de login para entrar </br>
+**[ENTAO]**:</br>
+Muda para página da loja com a lista de produtos </br>
 
-**RESULTADO ESPERADO**: </br>  Sistema deve exibir "Logado com sucesso" e redirecionar para a próxima página, a loja virtual com lista de produtos.
