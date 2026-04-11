@@ -1,3 +1,0 @@
-Cursos
-
--O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais : https://www.saucedemo.com/
