@@ -4,7 +4,6 @@ PROTÓTIPO DE SISTEMA WEB(SITE) E-COMMERCE PREESXITENTE PARA A PRÁTICA DE TESTE
 
 A SEGUIR O FLUXO DE NAVEGAÇÃO, INICIALMENTE COM AS PRINCIPAIS FUNCIONALIDADES NO PROJETO IDENTIFICADO -
 
-LINK DE ACESSO  https://www.saucedemo.com/
 
 <img width="1309" height="582" alt="imagem" src="https://github.com/user-attachments/assets/1bfec69c-95dc-459d-917d-e2d3e953c566" />
 
