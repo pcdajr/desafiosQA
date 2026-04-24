@@ -1,9 +1,8 @@
-**- Aplicação de planejamento e estratégia de projeto do STLC com teste estático/revisão, dinâmico manual e dinâmico automatizado de E2E (Sistema/Aceitação) utilizando protótipo de site e-commerce e aplicar os fundamentos aprendidos por mim no CTFL.**
+** - Aplicação de planejamento e estratégia de projeto do STLC com teste estático/revisão, dinâmico manual e dinâmico automatizado de E2E (Sistema/Aceitação) utilizando protótipo de site e-commerce e aplicar os fundamentos aprendidos por mim no CTFL.**
 
 - Link do Site  https://www.saucedemo.com/
 
-
-:dart: **O que é o projeto: "Automação de testes E2E no site Saucedemo".**
+:dart: **O que é o projeto: Automação de testes E2E no site Saucedemo.**
 
 :dart: **Tecnologias: Cypress, JavaScript, Node.js.**
 
