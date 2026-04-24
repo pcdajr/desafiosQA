@@ -1,3 +1,15 @@
-**Aplicação de planejamento e estratégia de projeto do STLC com teste estático/revisão, dinâmico manual e dinâmico automatizado de E2E (Sistema/Aceitação) utilizando protótipo de site e-commerce e aplicar os fundamentos aprendidos por mim no CTFL.**
+**- Aplicação de planejamento e estratégia de projeto do STLC com teste estático/revisão, dinâmico manual e dinâmico automatizado de E2E (Sistema/Aceitação) utilizando protótipo de site e-commerce e aplicar os fundamentos aprendidos por mim no CTFL.**
 
-LINK DE ACESSO  https://www.saucedemo.com/
+- Link do Site  https://www.saucedemo.com/
+
+
+:dart: **O que é o projeto: "Automação de testes E2E no site Saucedemo".**
+
+:dart: **Tecnologias: Cypress, JavaScript, Node.js.**
+
+:dart:**Arquitetura de domínio: Iniciamente foi utilizado a funcional/comportamental, focando nas 3 principais funcionalidades visualisadas pelas histórias de usuários e as gherkins modeladas depois de navegar pelo protótipo já preexistente.**
+
+:dart: **Como rodar: npx cypress open = abrindo UI** </br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;**npx cypress run = sem abrir UI (Modo Headless).**
+
+:dart: **O que foi testado: Liste os cenários (Login, Carrinho, Checkout).**
