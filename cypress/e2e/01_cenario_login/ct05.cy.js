@@ -5,10 +5,15 @@ describe('Página de login Saucedemo', () => {
   });
 
   it('Usuário Fake - sem cadastrado no sistema', () => { 
-   cy.get('[data-test="username"]').type("paulo");
+    cy.get('[data-test="username"]').type("paulo");
     cy.get('[data-test="password"]').type("1234");
     cy.get('[data-test="login-button"]').click();
-     
+
+    // capturando o elemento, verificando se tem a mensagem e se é vísivel.
+
+    cy.contains('[data-test="error"]',"Usuário não existe, insira um válido")  
+      .should('be.visible');
+                                     
     
   })
 }) 
