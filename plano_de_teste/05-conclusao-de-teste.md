@@ -2,11 +2,11 @@
 Com base na execução dos casos de teste nos módulos de Login, Pagamento e Lista de Produtos, foram identificados diversos defeitos críticos que impactam diretamente a experiência do usuário e a confiabilidade do sistema.
 
 **Métricas**</br>
--Total de casos executados: 16</br>
--Casos com sucesso (PASS): 3</br>
--Casos com falha (FAIL): 13</br>
--Taxa de sucesso: ~19%</br>
--Taxa de falha: ~81%</br>
+-Total de casos executados: 16
+-Casos com sucesso (PASS): 9
+-Casos com falha (FAIL): 7
+-Taxa de sucesso (Pass rate): 56,25%
+-Taxa de falha (Fail rate): 43,75%
 
 
 ## **Recomendações e sugestão para melhorias**</br>
