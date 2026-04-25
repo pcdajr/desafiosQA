@@ -3,7 +3,7 @@
 
 ## CENÁRIO 01
 
-<img width="1191" height="452" alt="Cena 1" src="https://github.com/user-attachments/assets/412a29b6-1cf9-4e96-9b3a-dff129c5ea48" />
+<img width="1218" height="400" alt="01" src="https://github.com/user-attachments/assets/55aaddd9-637b-48ac-b9ab-b084271c81f0" />
 
 ## CENÁRIO 02
 
@@ -11,6 +11,7 @@
 
 ## CENÁRIO 03
 
-<img width="1188" height="446" alt="Cena 3" src="https://github.com/user-attachments/assets/b939a3e6-4918-4fd6-9e63-3508d560e025" />
+<img width="1192" height="448" alt="03" src="https://github.com/user-attachments/assets/ae46fd31-c45b-4186-98f6-457067718874" />
+
 
 
