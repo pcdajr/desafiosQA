@@ -31,13 +31,13 @@ describe('Página de login Saucedemo', () => {
             .and('have.text',comparador.toString()); // verificando e convertendo o valor em texto.
 
 
-              // linha 23 Oolhando todos os elemento que contém add to cart,
-              // linha 24 fazendo um contator/flag, como aqui começa contando do zero é a velha story do n+1 (:
-              // linha 26 foi wrap pra envelopar o jquery retornado e clicando.
-              // linha 28 até 31 asserção para a notificação da quantidade no icone do carrinho depois dos
-              // verificando de incrementou. 
+              /* linha 23 Oolhando todos os elemento que contém add to cart,
+               linha 24 fazendo um contator/flag, como aqui começa contando do zero é a velha story do n+1 (:
+               linha 26 foi wrap pra envelopar o jquery retornado e clicando.
+               linha 28 até 31 asserção para a notificação da quantidade no icone do carrinho depois dos
+               verificando de incrementou.  Uhuuu  */ 
 
-            //Uhuuu 
+             
         
         });     
     
