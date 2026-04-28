@@ -1,11 +1,11 @@
 
-describe('Página de login Saucedemo', () => {
+describe('Tela de produtos - Saucedemo', () => {
 
    beforeEach(() => {
     cy.visit('/'); // antes do caso teste, visitando a url.
   });
 
-  it('Adicionar ao Carrinho e testar notificação da quantidade no cart', () => {
+  it('Adicionar itens ao carrinho e testar notificação da quantidade no cart', () => {
 
     cy.get('[data-test="username"]').type("standard_user");   //inserindo nome
     cy.get('[data-test="password"]').type("secret_sauce");    //inserindo senha   
