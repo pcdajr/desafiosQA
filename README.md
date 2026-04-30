@@ -16,7 +16,7 @@
 **Para ver completo o doc está dentro das pastas do projeto.**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9c8015a6-c8f2-4c76-aea2-75dd8f9ea19f" alt="image" width="25%" />
+  <img src="https://github.com/user-attachments/assets/9c8015a6-c8f2-4c76-aea2-75dd8f9ea19f" alt="image" width="50%" />
 </p>
 
 
