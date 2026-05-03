@@ -30,7 +30,6 @@ describe('Tela de produtos - Saucedemo', () => {
             .and("be.visible")            
             .and('have.text',comparador.toString()); // verificando e convertendo o valor em texto.
 
-
               /* linha 23 Oolhando todos os elemento que contém add to cart,
                linha 24 fazendo um contator/flag, como aqui começa contando do zero é a velha story do n+1 (:
                linha 26 foi wrap pra envelopar o jquery retornado e clicando.
@@ -38,6 +37,8 @@ describe('Tela de produtos - Saucedemo', () => {
                verificando de incrementou.  Uhuuu  */ 
         
         });     
+
+        cy.get('[data-test="shopping-cart-link"]').click();
     
   });
 
