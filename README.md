@@ -1,6 +1,6 @@
 🧱 **Link do Site** https://www.saucedemo.com/
 
-:dart: **O que é o projeto: Auditoria e Automação de testes E2E no site Saucedemo.**
+:dart: **O que é o projeto: Auditoria e Automação de testes em aplicação web E2E no site Saucedemo.**
 
 :dart: **Tecnologias/Processo: Modelagem manual/estática do plano de teste, Gherkin, Cypress, JavaScript, Node.js.**
 
