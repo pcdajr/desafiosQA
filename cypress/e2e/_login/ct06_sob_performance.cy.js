@@ -6,7 +6,7 @@ describe('Página de login Saucedemo', () => {
 
    
 
-  it('Usuário sob perfomance deve demorar mais que 5 segundos ', () => { 
+  it('Usuário sob performance deve demorar mais que 5 segundos ', () => { 
 
     const tempoInicial = Date.now();      // Utilizando essa forma pois não tem API é um configuração no site do Saucedemo
 
